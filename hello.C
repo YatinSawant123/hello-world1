@@ -2,6 +2,6 @@
 void main()
 {
   printf("hello world...");
-  
-  printf("/nthis is a basic C program");
+
+   printf("/nthis is a basic C program");
 }
